@@ -6,10 +6,11 @@
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-<!-- Link to the website will be added soon...  -->
+<!-- Link to the website will be added soon...  
   <a href="#">
    <img src="#" alt="My Website" />
   </a>
+ -->
 </div>
 
 <div align="center">
