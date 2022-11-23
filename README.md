@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" />
 </div>
 
-<div id="badges" align="center">
+<p id="badges" align="center">
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -11,13 +11,13 @@
    <img src="#" alt="My Website" />
   </a>
  -->
-</div>
+</p>
 
-<div align="center">
+<p align="center">
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=marcinnnnb&style=flat-square&color=blue" alt="Profile views" />
     </a>
-</div>
+</p>
 
 ### Hi there 👋
 
