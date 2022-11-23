@@ -12,12 +12,12 @@
   </a> -->
 </div>
 
-<div align="center" style="margin-bottom: 30px;">
-  
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=marcinnnnb&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-  
+<div align="center">
+  <p>
+    <a href="#">
+      <img src="https://komarev.com/ghpvc/?username=marcinnnnb&style=flat-square&color=blue" alt="Profile views" />
+    </a>
+  </p>
 </div>
 
 ### Hi there 👋
