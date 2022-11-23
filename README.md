@@ -1,4 +1,4 @@
-<div id="header" align="center" >
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" />
 </div>
 
@@ -6,17 +6,17 @@
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-<!-- Link to the website will be added soon...  
+<!-- Link to the website will be added soon...  -->
   <a href="#">
    <img src="#" alt="My Website" />
-  </a> -->
+  </a>
 </div>
 
-<p align="center">
+<div align="center">
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=marcinnnnb&style=flat-square&color=blue" alt="Profile views" />
     </a>
-</p>
+</div>
 
 ### Hi there 👋
 
