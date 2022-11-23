@@ -26,7 +26,7 @@
 </div>
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=21&pause-100&color=0D0126&background=0D0D0D00&center=true&vCenter=true&width=200&lines=hey+there!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=21&pause-100&color=F2F2F2&background=0D0D0D00&center=true&vCenter=true&width=200&lines=hey+there!" alt="Typing SVG" />
   
   </a>
 </div>
