@@ -25,9 +25,7 @@
   <h1 align="center">hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 </div>
 
-<div>
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Type%20&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-</div>
+
 
 
 <!--
