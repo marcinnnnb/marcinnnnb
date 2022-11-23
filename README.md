@@ -12,7 +12,7 @@
   </a> -->
 </div>
 
-<div align="center">
+<div align="center" margin-bottom="10">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=marcinnnnb&style=flat-square&color=blue" alt="Profile views" />
   </a>
