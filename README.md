@@ -33,6 +33,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" title="SAP" alt="SAP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
+  
 
 </p>
 
