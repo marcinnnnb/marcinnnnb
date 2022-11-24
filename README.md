@@ -6,7 +6,7 @@
 
 <p>Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Wrocław, Poland.</b></p>
 
-
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
