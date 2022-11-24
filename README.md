@@ -3,11 +3,13 @@
 </div> -->
 
 
-<img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" />
+
 <h1>hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
 
-<p>Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Wrocław, Poland.</b></p>
+<p align="left">Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Wrocław, Poland.</b>
+<img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" />
+</p>
 
 
 
