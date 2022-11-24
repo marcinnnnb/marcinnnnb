@@ -6,6 +6,17 @@
 
 <p>Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Wrocław, Poland.</b></p>
 
+
+
+### &nbsp; Languages and Tools : 
+
+
+
+
+
+
+
+
 <!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
