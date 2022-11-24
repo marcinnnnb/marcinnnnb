@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" />
-</div>
+</div> -->
 
 <h1 align="center">hey! welcome on my github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
