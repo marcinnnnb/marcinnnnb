@@ -26,7 +26,9 @@
 <div align="center">
 <!--    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=21&pause-100&color=F2F2F2&background=0D0D0D00&center=true&vCenter=true&width=200&lines=hey+there!" alt="Typing SVG" />
    </a> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=21&pause=1000&color=0D0126&background=0D0D0D00&center=true&vCenter=true&width=200&lines=hey+there!;README+is+in+progress..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=21&pause=1000&color=F2F2F2&background=0D0D0D00&center=true&vCenter=true&lines=hey+there!;README+is+in+progress..." alt="Typing SVG" />
+  </a>
 </div>
 
 
