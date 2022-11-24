@@ -40,7 +40,7 @@
 --- 
 
 
-### 📫 &nbsp;Want to connect? :
+### 📫 &nbsp;Where to find me :
 
 <p>
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
