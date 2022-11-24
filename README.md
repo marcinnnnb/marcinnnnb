@@ -2,9 +2,11 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200" />
 </div>
 
-<h1>test</h1>
+<h1 align="center">hey! welcome on my github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
-<div id="badges" align="center">
+
+
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -12,16 +14,18 @@
   <a href="#">
    <img src="#" alt="My Website" />
   </a>
- -->
 </div>
+ -->
 
-<div>
+
+<!-- <div>
   <p align="center">
       <a href="#">
         <img src="https://komarev.com/ghpvc/?username=marcinnnnb&style=flat-square&color=blue" alt="Profile views" />
       </a>
   </p>
-</div>
+</div> -->
+
 
 <!-- <h1 align="center">hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1> -->
 
