@@ -4,7 +4,9 @@
 
 <h1 align="left">hey! welcome on my github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
+<p>Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://icons8.com/icon/v1LdyfpYmW_8/poland" width="13" />
 
+</p>
 
 <!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
