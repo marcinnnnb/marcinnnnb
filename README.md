@@ -17,6 +17,7 @@
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="180" />
 
 <p>Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Wrocław, Poland.</b></p>
+<p>Even if you can't see any commits there, I do a lot of them @work</p>
 
 </br>
 </br>
