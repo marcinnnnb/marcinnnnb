@@ -16,8 +16,10 @@
 <h1>hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 <img align="right" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="180" />
 
+<!--
 <p>Welcome to my page! </br> I'm Marcin, Junior Sap Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Wrocław, Poland.</b></p>
 <p>Even if you can't see any commits there, I do a lot of them @work</p>
+-->
 
 </br>
 </br>
@@ -32,6 +34,7 @@
 
 ### 🛠️ &nbsp;Languages and Tools :
 
+<!--
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -46,7 +49,7 @@
 <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" title="SAP" alt="SAP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  
+-->
 
 </p>
 
@@ -60,7 +63,7 @@
   <a href="https://www.linkedin.com/in/marcin-barszcz/">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <p>Official website with portfolio is in progress...</p>
+  <p>Official website with is in progress...</p>
 </p>
 
 
